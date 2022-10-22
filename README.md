@@ -13,5 +13,5 @@ OR:
 
  1. Clone Git Repo
  2. Run setup.py
- 3. Run the desktop file that will appear on your desktop.
+ 3. Run the .desktop file that will appear on your desktop.
 
