@@ -143,6 +143,6 @@ if __name__ == "__main__":
     MainWindow = QtWidgets.QMainWindow()
     ui = Ui_MainWindow()
     ui.setupUi(MainWindow)
-    MainWindow.setWindowTitle('Cannon Driver Utility')
+    MainWindow.setWindowTitle('Canon Driver Utility')
     MainWindow.show()
     sys.exit(app.exec_())
